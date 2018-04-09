@@ -1,0 +1,1 @@
+SELECT * FROM amazon_db.amazonitems;
